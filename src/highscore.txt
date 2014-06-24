@@ -1,0 +1,10 @@
+Player 180
+Player 170
+Player 160
+Player 150
+Player 150
+Player 140
+Player 140
+Player 140
+Player 120
+Player 0
